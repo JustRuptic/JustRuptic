@@ -49,7 +49,7 @@ Autolink.Youtube
 
 Autolink.Photo
 
-[Ruptic](![image](https://user-images.githubusercontent.com/97924669/149851986-a643fba9-2065-47fc-b514-3b8ffdede07b.png))
+[Ruptic](https://user-images.githubusercontent.com/97924669/149852009-c11a231d-dd2e-4b62-819a-29e1b357abe8.png)
 
 - [x] Making friends.
 - [ ] Becoming a better person.
