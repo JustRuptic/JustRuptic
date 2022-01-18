@@ -38,15 +38,18 @@ Italic - *Italic*
 Bold&Italic - ***Bold&Italic***
 
 Block Format
+
 ```
 Block Format
 ```
 
 Autolink.Youtube
-[JustRuptic] (https://www.youtube.com/watch?v=BhHVS2fSZ-Y)
+
+[JustRuptic](https://www.youtube.com/watch?v=BhHVS2fSZ-Y)
 
 Autolink.Photo
-[Ruptic] (https://pbs.twimg.com/media/EZFlfWBVcAAEUj0.jpg)
+
+[Ruptic](https://pbs.twimg.com/media/EZFlfWBVcAAEUj0.jpg)
 
 - [x] Making friends.
 - [ ] Becoming a better person.
