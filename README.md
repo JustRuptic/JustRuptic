@@ -30,8 +30,11 @@ List in list format
 ###### smallest font size
  
 2. Bold,Italic, strikethrough, autolinks, and blocks.
+
 Bold - **Bold**
+
 Italic - *Italic*
+
 Bold&Italic - ***Bold&Italic***
 
 Block Format
