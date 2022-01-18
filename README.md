@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**JustRuptic/JustRuptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List in list format
+
+1. Sizes
+# Biggest font size 
+## 2nd biggest font size
+###### smallest font size
+ 
+2. Bold,Italic, strikethrough, autolinks, and blocks.
+Bold - **Bold**
+Italic - *Italic*
+Bold&Italic - ***Bold&Italic***
+
+Block Format
+```
+Block Format
+```
+
+Autolink.Youtube
+[JustRuptic] (https://www.youtube.com/watch?v=BhHVS2fSZ-Y)
+
+Autolink.Photo
+[Ruptic] (https://pbs.twimg.com/media/EZFlfWBVcAAEUj0.jpg)
+
+- [x] Making friends.
+- [ ] Becoming a better person.
+- [ ] Going to school
+- [ ] Getting glasses 
+
+😎 
