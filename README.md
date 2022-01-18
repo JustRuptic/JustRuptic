@@ -49,7 +49,7 @@ Autolink.Youtube
 
 Autolink.Photo
 
-![Ruptic](https://freesvg.org/img/Purple-Flowers.png)
+![Ruptic](https://freesvg.org/img/Purple-Flowers.svg.png)
 
 - [x] Making friends.
 - [ ] Becoming a better person.
